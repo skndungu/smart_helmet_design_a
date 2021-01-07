@@ -32,3 +32,9 @@ or here
 5) Select “Upload using Programmer” from the File menu.
 
 You can also explore more from the following tutorial :link:[How to Use USBasp Programmer with Arduino Boards](https://www.youtube.com/watch?v=ToKerwRR-70)
+
+# HANDLING THE BLUETOOTH APP & ARDUINO CODES :hammer:
+1) Ensure that the app connects to the system / our device
+2) Once a connection is established, on the specific app you can send a certain text or number or what the app has catered for transmission
+3) 
+
