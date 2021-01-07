@@ -36,5 +36,6 @@ You can also explore more from the following tutorial :link:[How to Use USBasp P
 # HANDLING THE BLUETOOTH APP & ARDUINO CODES :hammer:
 1) Ensure that the app connects to the system / our device
 2) Once a connection is established, on the specific app you can send a certain text or number or what the app has catered for transmission
-3) 
+3) In our codes we have catered for sending "1" to activate the system just 1 with no "" 
+4) If this is successfully send you should see trigger on the specific pin
 
